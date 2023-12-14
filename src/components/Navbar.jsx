@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import logo from '../assets/logo1.png'
-import {FaBars, FaTimes, FaGithub,FaLinkedin, FaFacebook, FaLink} from 'react-icons/fa';
+import {FaBars, FaTimes, FaGithub,FaLinkedin} from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 
